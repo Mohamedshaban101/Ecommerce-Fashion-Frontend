@@ -1,4 +1,4 @@
-# Fashion project With Laravel 11 Api
+# Fashion project With React
 
 ## To Run This Project Follow the following instructions
 
